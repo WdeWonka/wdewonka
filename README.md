@@ -3,7 +3,7 @@
 <h1 align="center">Hello there! I'm William Garcia <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="image" style="width: 1em;"></h1>
 
 
-<h3 align="center">Driven by a passion for frontend development, proudly representing Guatemala 🇬🇹 .</h3>
+<h3 align="center">Driven by a passion for Fulllstack development, proudly representing Guatemala 🇬🇹 .</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdewonka&label=Profile%20views&color=0e75b6&style=flat" alt="wdewonka" /> </p>
